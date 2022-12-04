@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>REST.MVC</name>
+    </assembly>
+    <members>
+        <member name="M:REST.MVC.Controllers.UserController.GetUsers">
+            <summary>Get all users</summary>
+            <response code="200">Get all users</response>
+        </member>
+        <member name="M:REST.MVC.Controllers.UserController.GetUser(System.Int32)">
+            <summary>Get exact user</summary>
+            <param name="id" example="123">User's id</param>
+            <response code="200">User was found</response>
+            <response code="404">User was not found</response>
+        </member>
+        <member name="M:REST.MVC.Controllers.UserController.AddUser(REST.MVC.Models.UserModel)">
+            <summary>Add user</summary>
+            <param name="user">User's model</param>
+            <response code="200">User was added</response>
+        </member>
+        <member name="M:REST.MVC.Controllers.UserController.UpdateUser(REST.MVC.Models.UserModel)">
+            <summary>Update exact user</summary>
+            <param name="user">User's model</param>
+            <response code="200">User was updated</response>
+            <response code="400">Invalid parameters in request</response>
+        </member>
+        <member name="M:REST.MVC.Controllers.UserController.RemoveUser(System.Int32)">
+            <summary>Remove exact user</summary>
+            <param name="id" example="123">User's id</param>
+            <response code="200">User was removed</response>
+            <response code="404">User was not removed</response>
+        </member>
+        <member name="P:REST.MVC.Models.UserModel.Id">
+            <summary>User's Id</summary>
+            <example>0</example>
+        </member>
+        <member name="P:REST.MVC.Models.UserModel.Email">
+            <summary>User's Email</summary>
+            <example>usertest@mail.com</example>
+        </member>
+        <member name="P:REST.MVC.Models.UserModel.Password">
+            <summary>User's Password</summary>
+            <example>Pa$$w0rd</example>
+        </member>
+        <member name="P:REST.MVC.Models.UserModel.Status">
+            <summary>User's Status</summary>
+            <example>Online</example>
+            <example>Offline</example>
+        </member>
+        <member name="P:REST.MVC.Models.UserModel.Role">
+            <summary>User's Role</summary>
+            <example>Student</example>
+            <example>Teacher</example>
+        </member>
+    </members>
+</doc>

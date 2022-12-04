@@ -1,0 +1,601 @@
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\lab03.dll.config
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\lab03.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\lab03.pdb
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\csc.exe
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\csc.exe.config
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\csc.rsp
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\csi.exe
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\csi.exe.config
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\csi.rsp
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.AppContext.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Collections.Immutable.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Console.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Globalization.Calendars.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.IO.Compression.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.IO.FileSystem.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Net.Http.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Net.Sockets.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Reflection.Metadata.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.ValueTuple.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Xml.XPath.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\vbc.exe
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\vbc.exe.config
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\vbc.rsp
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\VBCSCompiler.exe
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\roslyn\VBCSCompiler.exe.config
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Antlr3.Runtime.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Microsoft.Web.Infrastructure.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Newtonsoft.Json.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Helpers.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Mvc.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Optimization.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Razor.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.WebPages.Deployment.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.WebPages.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.WebPages.Razor.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\WebGrease.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Helpers.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Mvc.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Optimization.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.Razor.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.WebPages.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.WebPages.Deployment.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\System.Web.WebPages.Razor.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Newtonsoft.Json.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Antlr3.Runtime.pdb
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.Helpers.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.Mvc.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.Optimization.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.Razor.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.WebPages.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\obj\Debug\lab03.csproj.CopyComplete
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\obj\Debug\lab03.dll
+F:\Kirill\Study\6 sem\ASP .Net\lab03\lab03\obj\Debug\lab03.pdb
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\lab03.dll.config
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\lab03.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\lab03.pdb
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\csc.exe
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\csc.exe.config
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\csc.rsp
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\csi.exe
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\csi.exe.config
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\csi.rsp
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.AppContext.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Collections.Immutable.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Console.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Globalization.Calendars.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.IO.Compression.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.IO.FileSystem.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Net.Http.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Net.Sockets.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Reflection.Metadata.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.ValueTuple.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Xml.XPath.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\vbc.exe
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\vbc.exe.config
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\vbc.rsp
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\VBCSCompiler.exe
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\roslyn\VBCSCompiler.exe.config
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Antlr3.Runtime.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Microsoft.Web.Infrastructure.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Newtonsoft.Json.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Helpers.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Mvc.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Optimization.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Razor.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.WebPages.Deployment.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.WebPages.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.WebPages.Razor.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\WebGrease.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Helpers.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Mvc.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Optimization.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.Razor.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.WebPages.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.WebPages.Deployment.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\System.Web.WebPages.Razor.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Newtonsoft.Json.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Antlr3.Runtime.pdb
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.Helpers.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.Mvc.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.Optimization.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.Razor.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.WebPages.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\obj\Debug\lab03.csproj.CopyComplete
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\obj\Debug\lab03.dll
+D:\учеба\6 семестр\Интернет-сервера\ASP_Net\lab03\lab03\obj\Debug\lab03.pdb
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\lab03.dll.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\lab03.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\lab03.pdb
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\csc.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\csc.exe.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\csc.rsp
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\csi.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\csi.exe.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\csi.rsp
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.AppContext.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Collections.Immutable.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Console.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Globalization.Calendars.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.IO.Compression.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.IO.FileSystem.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Net.Http.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Net.Sockets.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Reflection.Metadata.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.ValueTuple.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Xml.XPath.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\vbc.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\vbc.exe.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\vbc.rsp
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\VBCSCompiler.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\roslyn\VBCSCompiler.exe.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Antlr3.Runtime.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Microsoft.Web.Infrastructure.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Newtonsoft.Json.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Helpers.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Mvc.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Optimization.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Razor.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.WebPages.Deployment.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.WebPages.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.WebPages.Razor.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\WebGrease.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Helpers.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Mvc.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Optimization.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.Razor.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.WebPages.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.WebPages.Deployment.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\System.Web.WebPages.Razor.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Newtonsoft.Json.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Antlr3.Runtime.pdb
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.Helpers.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.Mvc.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.Optimization.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.Razor.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.WebPages.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\obj\Debug\lab03.csproj.CopyComplete
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\obj\Debug\lab03.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab03\lab03\obj\Debug\lab03.pdb
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\lab03.dll.config
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\lab03.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\lab03.pdb
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\csc.exe
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\csc.exe.config
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\csc.rsp
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\csi.exe
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\csi.exe.config
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\csi.rsp
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.AppContext.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Collections.Immutable.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Console.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Globalization.Calendars.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.IO.Compression.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.IO.FileSystem.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Net.Http.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Net.Sockets.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Reflection.Metadata.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.ValueTuple.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Xml.XPath.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\vbc.exe
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\vbc.exe.config
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\vbc.rsp
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\VBCSCompiler.exe
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\roslyn\VBCSCompiler.exe.config
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Antlr3.Runtime.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Microsoft.Web.Infrastructure.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Newtonsoft.Json.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Helpers.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Mvc.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Optimization.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Razor.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.WebPages.Deployment.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.WebPages.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.WebPages.Razor.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\WebGrease.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Helpers.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Mvc.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Optimization.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.Razor.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.WebPages.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.WebPages.Deployment.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\System.Web.WebPages.Razor.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Newtonsoft.Json.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Antlr3.Runtime.pdb
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.Helpers.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.Mvc.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.Optimization.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.Razor.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.WebPages.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\obj\Debug\lab03.csproj.CopyComplete
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\obj\Debug\lab03.dll
+D:\07_SEMESTR\InternetProgramming\lab03\lab03\obj\Debug\lab03.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\lab03.dll.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\lab03.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\lab03.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\csc.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\csc.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\csc.rsp
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\csi.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\csi.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\csi.rsp
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.AppContext.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Collections.Immutable.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Console.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Globalization.Calendars.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.Compression.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.FileSystem.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Net.Http.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Net.Sockets.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Reflection.Metadata.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.ValueTuple.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.XPath.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\vbc.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\vbc.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\vbc.rsp
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\VBCSCompiler.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\roslyn\VBCSCompiler.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Antlr3.Runtime.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Microsoft.Web.Infrastructure.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Newtonsoft.Json.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Helpers.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Mvc.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Optimization.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Razor.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Deployment.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Razor.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\WebGrease.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Helpers.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Mvc.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Optimization.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.Razor.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Deployment.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Razor.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Newtonsoft.Json.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Antlr3.Runtime.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.Helpers.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.Mvc.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.Optimization.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.Razor.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.WebPages.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\obj\Debug\lab03.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\obj\Debug\lab03.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab03\lab03\obj\Debug\lab03.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\lab03.dll.config
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\lab03.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\lab03.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\csc.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\csc.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\csc.rsp
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\csi.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\csi.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\csi.rsp
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.AppContext.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Console.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Globalization.Calendars.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.Compression.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Net.Http.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Net.Sockets.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.ValueTuple.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\vbc.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\vbc.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\vbc.rsp
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\VBCSCompiler.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Antlr3.Runtime.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Newtonsoft.Json.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Helpers.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Mvc.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Optimization.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Razor.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Deployment.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Razor.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\WebGrease.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Helpers.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Mvc.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Optimization.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.Razor.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Deployment.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\System.Web.WebPages.Razor.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Newtonsoft.Json.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Antlr3.Runtime.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.Helpers.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.Mvc.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.Razor.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.WebPages.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\obj\Debug\lab03.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\obj\Debug\lab03.csproj.CopyComplete
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\obj\Debug\lab03.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab03\lab03\obj\Debug\lab03.pdb
+D:\7sem\ПвИ\lab3\lab03\bin\lab03.dll.config
+D:\7sem\ПвИ\lab3\lab03\bin\lab03.dll
+D:\7sem\ПвИ\lab3\lab03\bin\lab03.pdb
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\csc.exe
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\csc.exe.config
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\csc.rsp
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\csi.exe
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\csi.exe.config
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\csi.rsp
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.AppContext.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Console.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Globalization.Calendars.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.IO.Compression.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Net.Http.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Net.Sockets.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.ValueTuple.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\vbc.exe
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\vbc.exe.config
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\vbc.rsp
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\VBCSCompiler.exe
+D:\7sem\ПвИ\lab3\lab03\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\ПвИ\lab3\lab03\bin\Antlr3.Runtime.dll
+D:\7sem\ПвИ\lab3\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\ПвИ\lab3\lab03\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\ПвИ\lab3\lab03\bin\Newtonsoft.Json.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Helpers.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Mvc.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Optimization.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Razor.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.WebPages.Deployment.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.WebPages.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.WebPages.Razor.dll
+D:\7sem\ПвИ\lab3\lab03\bin\WebGrease.dll
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Helpers.xml
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Mvc.xml
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Optimization.xml
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.Razor.xml
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.WebPages.xml
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.WebPages.Deployment.xml
+D:\7sem\ПвИ\lab3\lab03\bin\System.Web.WebPages.Razor.xml
+D:\7sem\ПвИ\lab3\lab03\bin\Newtonsoft.Json.xml
+D:\7sem\ПвИ\lab3\lab03\bin\Antlr3.Runtime.pdb
+D:\7sem\ПвИ\lab3\lab03\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.Helpers.resources.dll
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.Mvc.resources.dll
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.Razor.resources.dll
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.WebPages.resources.dll
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\ПвИ\lab3\lab03\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\ПвИ\lab3\lab03\obj\Debug\lab03.csproj.AssemblyReference.cache
+D:\7sem\ПвИ\lab3\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\7sem\ПвИ\lab3\lab03\obj\Debug\lab03.csproj.CopyComplete
+D:\7sem\ПвИ\lab3\lab03\obj\Debug\lab03.dll
+D:\7sem\ПвИ\lab3\lab03\obj\Debug\lab03.pdb

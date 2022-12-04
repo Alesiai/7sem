@@ -1,0 +1,14 @@
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\PhonesLibSql.dll.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\PhonesLibSql.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\PhonesLibSql.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\EntityFramework.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\EntityFramework.SqlServer.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\Newtonsoft.Json.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\EntityFramework.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\EntityFramework.SqlServer.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Release\Newtonsoft.Json.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Release\PhonesLibSql.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Release\PhonesLibSql.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Release\PhonesLibSql.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Release\PhonesLibSql.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Release\PhonesLibSql.pdb

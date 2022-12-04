@@ -1,0 +1,168 @@
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.exe
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.deps.json
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.runtimeconfig.json
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.runtimeconfig.dev.json
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.xml
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.Views.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.Views.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.AssemblyInfoInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.AssemblyInfo.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorAssemblyInfo.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorAssemblyInfo.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\staticwebassets\REST.MVC.StaticWebAssets.Manifest.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\staticwebassets\REST.MVC.StaticWebAssets.xml
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\REST.MVC.styles.css
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.TagHelpers.input.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.TagHelpers.output.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorCoreGenerate.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorTargetAssemblyInfo.cache
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorTargetAssemblyInfo.cs
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.Views.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.dll
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.xml
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.genruntimeconfig.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.StaticWebAssets.xml
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.exe
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.deps.json
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.runtimeconfig.json
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.runtimeconfig.dev.json
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.xml
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.Views.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\REST.MVC.Views.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.AssemblyInfoInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.AssemblyInfo.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorAssemblyInfo.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorAssemblyInfo.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\staticwebassets\REST.MVC.StaticWebAssets.Manifest.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.TagHelpers.input.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.TagHelpers.output.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorCoreGenerate.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorTargetAssemblyInfo.cache
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.RazorTargetAssemblyInfo.cs
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.Views.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.csproj.CopyComplete
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.dll
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.xml
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.pdb
+D:\7sem\На диск\Старые\InteretProgramming\LB-8-2\REST.MVC\obj\Debug\netcoreapp3.1\REST.MVC.genruntimeconfig.cache

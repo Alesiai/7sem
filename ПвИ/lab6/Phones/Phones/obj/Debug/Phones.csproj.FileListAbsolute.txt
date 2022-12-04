@@ -1,0 +1,618 @@
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Phones.dll.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Phones.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Phones.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\csc.rsp
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\csi.rsp
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.AppContext.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Console.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Compression.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Claims.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.ValueTuple.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\vbc.rsp
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\PhonesLib.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Razor.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\WebGrease.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\PhonesLib.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.Razor.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\obj\Debug\Phones.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CopyComplete
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\obj\Debug\Phones.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\obj\Debug\Phones.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\WebActivatorEx.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\EntityFramework.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\PhonesLibSql.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\EntityFramework.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Phones.dll.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Phones.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Phones.pdb
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\csc.rsp
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\csi.rsp
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.AppContext.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Console.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Compression.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Claims.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.ValueTuple.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\vbc.rsp
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\EntityFramework.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\PhonesLib.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Razor.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\WebActivatorEx.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\WebGrease.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\PhonesLibSql.pdb
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\PhonesLib.pdb
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\EntityFramework.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.Razor.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.pdb
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\obj\Debug\Phones.csprojAssemblyReference.cache
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CopyComplete
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\obj\Debug\Phones.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\Phones\obj\Debug\Phones.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Phones.dll.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Phones.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Phones.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csc.rsp
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csi.rsp
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.AppContext.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Console.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Compression.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Claims.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.ValueTuple.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\vbc.rsp
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLib.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Razor.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\WebActivatorEx.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\WebGrease.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLibSql.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLib.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Razor.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Phones.dll.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Phones.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Phones.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csc.rsp
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\csi.rsp
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.AppContext.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Console.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Compression.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Claims.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.ValueTuple.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\vbc.rsp
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLib.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Razor.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\WebActivatorEx.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\WebGrease.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLibSql.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\PhonesLib.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.Razor.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CopyComplete
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\Phones\obj\Debug\Phones.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Phones.dll.config
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Phones.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Phones.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\csc.exe.config
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\csc.rsp
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\csi.exe.config
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\csi.rsp
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.AppContext.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Console.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Compression.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Claims.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.ValueTuple.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\vbc.exe.config
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\vbc.rsp
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\EntityFramework.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\PhonesLib.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Razor.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\WebActivatorEx.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\WebGrease.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\PhonesLibSql.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\PhonesLibSql.dll.config
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\PhonesLib.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\EntityFramework.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\EntityFramework.SqlServer.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Newtonsoft.Json.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Ninject.Web.Mvc.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Helpers.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Mvc.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Optimization.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.Razor.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\System.Web.WebPages.Razor.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Antlr3.Runtime.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.AssemblyReference.cache
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\obj\Debug\Phones.csproj.CopyComplete
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\obj\Debug\Phones.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\Phones\obj\Debug\Phones.pdb
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Phones.dll.config
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Phones.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Phones.pdb
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\csc.exe
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\csc.exe.config
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\csc.rsp
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\csi.exe
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\csi.exe.config
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\csi.rsp
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.AppContext.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Console.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.IO.Compression.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.IO.Pipes.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.AccessControl.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.Claims.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.ValueTuple.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\vbc.exe
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\vbc.exe.config
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\vbc.rsp
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\VBCSCompiler.exe
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Antlr3.Runtime.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\EntityFramework.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\EntityFramework.SqlServer.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Newtonsoft.Json.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Extensions.NamedScope.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Web.Common.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Web.Common.WebHost.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Web.Mvc.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\PhonesLib.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\PhonesLibSql.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Helpers.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Mvc.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Optimization.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Razor.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.WebPages.Deployment.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.WebPages.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.WebPages.Razor.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\WebActivatorEx.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\WebGrease.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\PhonesLibSql.pdb
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\PhonesLibSql.dll.config
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\PhonesLib.pdb
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\EntityFramework.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\EntityFramework.SqlServer.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Newtonsoft.Json.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Extensions.NamedScope.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Web.Common.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Web.Common.WebHost.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Ninject.Web.Mvc.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Helpers.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Mvc.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Optimization.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.Razor.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.WebPages.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.WebPages.Deployment.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\System.Web.WebPages.Razor.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Antlr3.Runtime.pdb
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.Helpers.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.Mvc.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.Razor.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.WebPages.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\obj\Debug\Phones.csproj.AssemblyReference.cache
+D:\7sem\ПвИ\lab6\Phones\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+D:\7sem\ПвИ\lab6\Phones\Phones\obj\Debug\Phones.csproj.CopyComplete
+D:\7sem\ПвИ\lab6\Phones\Phones\obj\Debug\Phones.dll
+D:\7sem\ПвИ\lab6\Phones\Phones\obj\Debug\Phones.pdb

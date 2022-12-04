@@ -1,0 +1,53 @@
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csprojAssemblyReference.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.Form1.resources
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.Properties.Resources.resources
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csproj.GenerateResource.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\WCF_Client.exe.config
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\WCF_Client.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\WCF_Client.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.exe
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.pdb
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\System.Data.SqlClient.dll
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\bin\Debug\System.Data.SqlClient.xml
+G:\LEARN\6 сем\ПИС(ASP.NET)\labs\new\lab_07\c\WCF_Client\obj\Debug\WCF_Client.csproj.CopyComplete
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.exe.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.pdb
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\bin\Debug\System.Data.SqlClient.dll
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\bin\Debug\System.Data.SqlClient.xml
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csprojAssemblyReference.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.Form1.resources
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.Properties.Resources.resources
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.GenerateResource.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.CoreCompileInputs.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.CopyComplete
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\System.Data.SqlClient.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\System.Data.SqlClient.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.Form1.resources
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.Properties.Resources.resources
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.GenerateResource.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\WCF_Client.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\System.Data.SqlClient.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\bin\Debug\System.Data.SqlClient.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.SuggestedBindingRedirects.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.Form1.resources
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.Properties.Resources.resources
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.GenerateResource.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.csproj.CopyComplete
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab7c\c\c\WCF_Client\obj\Debug\WCF_Client.pdb

@@ -1,0 +1,195 @@
+﻿<style>
+
+    td {
+        margin-left: 20px;
+        border: 1px solid grey;
+        padding: 15px;
+    }
+
+
+    div {
+        display: inline-block;
+        margin: 20px;
+    }
+
+    #tableBlock {
+        width: auto;
+    }
+
+    #editBlock {
+        display: none;
+        float: right;
+    }
+
+    #createBlock {
+        float: right;
+    }
+</style>
+<div id="tableBlock"></div>
+<div id="editBlock">
+    <p><b>Редактирование записи</b></p>
+    <table>
+        <tr><td><input type="hidden" id="editId" /></td><td></td></tr>
+        <tr><td><label>Фамилия: </label></td><td><input type="text" id="editSurname" /></td></tr>
+        <tr><td><label>Телефон: </label></td><td><input type="text" id="editNumber" /></td></tr>
+    
+    </table>
+    <button id="editNote">Сохранить</button>
+</div>
+<div id="createBlock">
+    <p><b>Добавление книги</b></p>
+    <table>
+        <tr><td><label>Фамилия: </label></td><td><input type="text" id="addSurname" /></td></tr>
+        <tr><td><label>Телефон: </label></td><td><input type="text" id="addNumber" /></td></tr>
+   
+    </table>
+    <button id="addNote">Сохранить</button>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+    $(document).ready(function () {
+ 
+        GetAllNotes();
+ 
+        $("#editNote").click(function (event) {
+            event.preventDefault();
+            EditNote();
+        });
+ 
+        $("#addNote").click(function (event) {
+            event.preventDefault();
+            AddNote();
+        });
+ 
+    });
+    // Получение всех записей по ajax-запросу
+    function GetAllNotes() {
+         
+        $("#createBlock").css('display', 'block');
+        $("#editBlock").css('display', 'none');
+        $.ajax({
+            url: '/TS/Values',
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                WriteResponse(data);
+            },
+            error: function () {
+                alert("!ERROR!");
+            }
+        });
+    }
+ // Добавление новой записи
+    function AddNote() {
+        // получаем значения для добавляемой записи
+        var note = {
+            Surname: $('#addSurname').val(),
+            PhoneNumber: $('#addNumber').val()
+        };
+  
+        $.ajax({
+            url: '/TS/Values/',
+            type: 'POST',
+            data: JSON.stringify(note),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                GetAllNotes();
+            },
+            error: function () {
+                alert("!ERROR!");
+            }
+        });
+    }
+ // Удаление записи
+    function DeleteNote(id) {
+  
+        $.ajax({
+            url: '/TS/Values/' + id,
+            type: 'DELETE',
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                GetAllNotes();
+            },
+            error: function () {
+                alert("!ERROR!");
+            }
+        });
+    }
+    // редактирование записи
+    function EditNote() {
+        var id = $('#editId').val()
+        // получаем новые значения для редактируемой книги
+        var note = {
+            Id: $('#editId').val(),
+            Surname: $('#editSurname').val(),
+            PhoneNumber: $('#editNumber').val(),
+          
+        };
+        $.ajax({
+            url: '/TS/Values/' + id,
+            type: 'PUT',
+            data: JSON.stringify(note),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                GetAllNotes();
+            },
+            error: function () {
+                alert("!ERROR!");
+            }
+        });
+    }
+ // вывод полученных данных на экран
+    function WriteResponse(notes) {
+        var strResult = "<table><th>ID</th><th>Фамилия</th><th>Номер телефона</th>";
+        $.each(notes, function (index, note) {
+            strResult += "<tr><td>" + note.Id + "</td><td> " + note.Surname + "</td><td>" +
+                note.PhoneNumber + "</td><td><a id='editItem' data-item='" + note.Id + "' onclick='EditItem(this);' >Редактировать</a></td>" +
+            "<td><a id='delItem' data-item='" + note.Id + "' onclick='DeleteItem(this);' >Удалить</a></td></tr>";
+        });
+        strResult += "</table>";
+        $("#tableBlock").html(strResult);
+         
+    }
+    // обработчик удаления
+    function DeleteItem(el) {
+        // получаем id удаляемого объекта
+        var id = $(el).attr('data-item');
+        DeleteNote(id);
+    }
+    // обработчик редактирования
+    function EditItem (el) {
+        // получаем id редактируемого объекта
+        var id = $(el).attr('data-item');
+        GetNote(id);
+    }
+    // вывод данных редактируемой книги в поля для редактирования
+    function ShowNote(note) {
+        if (note != null) {
+            $("#createBlock").css('display', 'none');
+            $("#editBlock").css('display', 'block');
+            $("#editId").val(note.Id);
+            $("#editSurname").val(note.Surname);
+            $("#editNumber").val(note.PhoneNumber);
+          
+        }
+        else {
+            alert("Такая запись не существует");
+        }
+    }
+    // запрос записи на редактирование
+    function GetNote(id) {
+        $.ajax({
+            url: '/TS/Values/' + id,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                ShowNote(data);
+            },
+            error: function () {
+                alert("!ERROR!");
+            }
+        });
+    }
+    </script>
+}

@@ -1,0 +1,70 @@
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll.config
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.pdb
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.xml
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CopyComplete
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.dll
+D:\!Фит ПОИТ\!6sem\ПИС\Решения\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.pdb
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll.config
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.pdb
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.xml
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csprojAssemblyReference.cache
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CoreCompileInputs.cache
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CopyComplete
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.dll
+D:\учеба\6 семестр\Интернет-сервера\lab06_-_DI\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll.config
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.xml
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CopyComplete
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.dll
+D:\7sem\На диск\Старые\InteretProgramming\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll.config
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\PhonesLibSql.pdb
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\EntityFramework.SqlServer.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\bin\Debug\Newtonsoft.Json.xml
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.AssemblyReference.cache
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CoreCompileInputs.cache
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.csproj.CopyComplete
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.dll
+D:\7sem\ПвИ\lab06 - DI\Phones\PhonesLibSql\obj\Debug\PhonesLibSql.pdb

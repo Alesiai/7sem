@@ -1,0 +1,10 @@
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\bin\BAA_Lab1.dll.config
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\bin\BAA_Lab1.dll
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\bin\BAA_Lab1.pdb
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\obj\Debug\BAA_Lab1.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\obj\Debug\BAA_Lab1.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\obj\Debug\BAA_Lab1.csproj.CopyComplete
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\obj\Debug\BAA_Lab1.dll
+D:\7sem\На диск\Старые\thirdCourse2Sem-main\ASP\lab1\BAA_Lab1\BAA_Lab1\obj\Debug\BAA_Lab1.pdb

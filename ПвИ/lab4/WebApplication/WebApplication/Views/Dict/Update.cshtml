@@ -1,0 +1,23 @@
+﻿@model WebApplication.Models.User
+@{
+    ViewBag.Title = "Update";
+    Layout = null;
+}
+
+@using (Html.BeginForm("UpdateSave", "Dict", FormMethod.Post))
+{
+    <div>
+        <label for="inputId">Id</label>
+        <input type="text" id="inputId" name="Id" value="@Html.DisplayFor(item => item.Id)">
+    </div>
+    <div >
+        <label for="inputName">Name</label>
+        <input type="text"  id="inputName" name="Name" value="@Html.DisplayFor(item => item.Name)">
+    </div>
+    <div >
+        <label for="inputAddress">Phone number</label>
+        <input type="text" id="inputAddress" name="PhoneNumber" value="@Html.DisplayFor(item => item.PhoneNumber)">
+    </div>
+    <input type="submit" value="Save" />
+}
+

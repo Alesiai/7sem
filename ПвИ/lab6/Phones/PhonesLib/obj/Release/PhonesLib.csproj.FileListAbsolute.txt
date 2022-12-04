@@ -1,0 +1,8 @@
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\bin\Release\PhonesLib.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\bin\Release\PhonesLib.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\bin\Release\Newtonsoft.Json.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\bin\Release\Newtonsoft.Json.xml
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\obj\Release\PhonesLib.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\obj\Release\PhonesLib.csproj.CopyComplete
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\obj\Release\PhonesLib.dll
+D:\1Students\7_SEMESTR\InteretProgramming\lab06 - DI\Phones\PhonesLib\obj\Release\PhonesLib.pdb

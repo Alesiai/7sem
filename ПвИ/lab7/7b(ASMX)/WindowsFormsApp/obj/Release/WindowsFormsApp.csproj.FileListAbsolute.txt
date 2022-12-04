@@ -1,0 +1,31 @@
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csprojAssemblyReference.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.Form1.resources
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+D:\учеба\6 семестр\Интернет-сервера\labs\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csprojAssemblyReference.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.Form1.resources
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+D:\1Students\7_SEMESTR\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.Form1.resources
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+D:\7sem\На диск\Старые\InteretProgramming\lab_07b_asmx\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb

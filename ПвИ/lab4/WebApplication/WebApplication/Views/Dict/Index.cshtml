@@ -1,0 +1,30 @@
+﻿@model IEnumerable<WebApplication.Models.User>
+@{
+    ViewBag.Title = "Dict";
+    Layout = null;
+}
+
+<div>
+    <table>
+        <tr>
+            <td><form method="get" action="~/Dict/Add"><input type="submit" value="Add" /></form></td>
+        </tr>
+    </table>
+    <table border="1">
+        <tr>
+            <td>Name</td>
+            <td>Phone</td>
+            <td>Update</td>
+            <td>Delete</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+                <td>@Html.ActionLink("Edit", "Update", new { Id = item.Id }) </td>
+                <td>@Html.ActionLink("Delete", "Delete", new { Id = item.Id })</td>
+            </tr>
+        }
+    </table>    
+</div>
