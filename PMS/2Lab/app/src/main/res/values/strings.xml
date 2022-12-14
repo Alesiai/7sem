@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">2Lab</string>
+    <string name="MainTitle">Расчет кредита</string>
+    <string name="SumHint">Сумма кредита</string>
+    <string name="ResultButton">Рассчитать</string>
+
+    <string-array name="loanTypes">
+        <item>Потребительский</item>
+        <item>Экспресс</item>
+    </string-array>
+
+    <string name="oneYear">12</string>
+    <string name="twoYears">24</string>
+    <string name="threeYears">36</string>
+
+    <string name="checkBox">Использовать льготы</string>
+    <string name="EmtyAmountError">Сумма кредита не может быть пустой</string>
+    <string name="CantConvertAmountError">Введите пожалуйста число</string>
+</resources>
